@@ -45,5 +45,8 @@
     <ClCompile Include="punteros_funciones_7.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="punteros_funciones_8.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
