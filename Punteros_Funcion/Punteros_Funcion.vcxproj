@@ -47,6 +47,10 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="punteros_funciones_7.c">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="Punteros_Funcion_ejercicio_73.c">
       <SubType>
       </SubType>
